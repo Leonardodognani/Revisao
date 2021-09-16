@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\Revisao\\Revisao.csproj": {}
+    "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\revisao\\Revisao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\Revisao\\Revisao.csproj": {
+    "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\revisao\\Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\revisao\\Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\Revisao\\Revisao.csproj",
+        "projectPath": "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\revisao\\Revisao.csproj",
         "packagesPath": "C:\\Users\\Sorath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\Revisao\\obj\\",
+        "outputPath": "C:\\Users\\Sorath\\desktop\\codes\\github\\dio\\revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sorath\\AppData\\Roaming\\NuGet\\NuGet.Config"
